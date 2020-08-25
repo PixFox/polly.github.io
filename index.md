@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 隐私策略/Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/PixFox/polly.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本隐私策略的目的是说明当您访问和使用插件以及相关服务时插件可能会搜集的资料, 插件会怎样使用这些资料, 是否会透露给第三方, 以及您对这些资料的使用及修改方面的选择权利. 本隐私策略适用于Polly翻译插件。**更多隐私策略可以查看或咨询百度翻译的隐私策略**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 访问者的信息
 
-### Markdown
+正常来说, 插件会自动收集访问者的如访问次数和访问频率等信息用以支持翻译源的api的翻译功能，以及将这些数据用于统计目的， 以便我们进一步提高站点的用户体验. 例如,插件使用一种网站通用的叫做 "Cookies" 的技术来判断用户如何、是否有权限享受翻译的服务等， 这些 Cookies 并不收集任何可识别个人身份的信息, 同时我们也无法将许多这类信息整理成可以识别您个人身份的信息如姓名和电子邮件地址等。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+翻译源可能使用 Cookies 技术来增强您的浏览体验, 包括记录您的个人设置和自定义设置以及相关的服务信息, 或用于您的访问验证。
 
-```markdown
-Syntax highlighted code block
+### 透露和公开
 
-# Header 1
-## Header 2
-### Header 3
+插件制作者不会将您在平台使用的个人信息如姓名, 地址, 电子邮件地址以及电话号码等透露或公开给第三方个人或企业。
 
-- Bulleted
-- List
+### 隐私策略的变动
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PixFox/polly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果需要改变插件Polly的隐私策略, 我会把相关的改动在此页面发布, 以便您能随时了解我会收集什么信息, 可能会如何使用这些信息以及我们是否会把此信息透露给第三方。
